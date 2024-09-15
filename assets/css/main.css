@@ -951,14 +951,14 @@ input, select, textarea {
 			}
 
 		table td {
-			padding: 0.75em 0.75em;
+			padding: 0.10em 0.10em;
 		}
 
 		table th {
 			color: #ffffff;
 			font-size: 0.9em;
 			font-weight: 600;
-			padding: 0 0.75em 0.75em 0.75em;
+			padding: 0 0.10em 0.10em 0.10em;
 			text-align: left;
 		}
 
